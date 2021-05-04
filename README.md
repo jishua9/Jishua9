@@ -1,7 +1,7 @@
 # Hi I'm Josh 👋
 
 ### Im a System Engineer, Intune Specialist and Powershell lover!
-<img src="https://s18955.pcdn.co/wp-content/uploads/2017/05/LinkedIn.png" height="50" width="50"> https://www.linkedin.com/in/joshua-munro-9043a851
+<img src="https://s18955.pcdn.co/wp-content/uploads/2017/05/LinkedIn.png" height="25" width="25"> https://www.linkedin.com/in/joshua-munro-9043a851
 <!--
 **jishua9/Jishua9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
