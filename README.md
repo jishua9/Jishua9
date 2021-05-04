@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi I'm Josh 👋
+
+### Im a System Engineer, Intune Specialist and Powershell lover!
+
 
 <!--
 **jishua9/Jishua9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
